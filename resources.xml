@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DepartmentInformationResources university="КНУ імені Тараса Шевченка" faculty="Факультет інформаційних технологій">
+  <DepartmentSection department="Кафедра програмних систем і технологій" faculty="Факультет інформаційних технологій">
+    <MethodicalManual id="RES-01" type="Методичний посібник" faculty="Факультет інформаційних технологій" department="Кафедра програмних систем і технологій" access="Відкритий доступ" year="2025">
+      <Title>Об'єктно-орієнтоване програмування на C# та .NET MAUI</Title>
+      <Annotation>Практикум із проєктування багатоплатформних додатків із використанням патернів проєктування та обробки XML.</Annotation>
+      <Author>Коваленко Олександр Петрович</Author>
+      <UsageConditions>Вільне завантаження для студентів та викладачів кафедри за університетським обліковим записом.</UsageConditions>
+      <Address>https://fit.knu.ua/resources/pst/oop-maui-2025.pdf</Address>
+    </MethodicalManual>
+
+    <ElectronicCourse id="RES-02" type="Електронний навчальний курс" faculty="Факультет інформаційних технологій" department="Кафедра програмних систем і технологій" platform="Moodle KNU">
+      <Title>Архітектура програмного забезпечення</Title>
+      <Annotation>Дистанційний курс із відеолекціями, тестами та завданнями з UML-моделювання.</Annotation>
+      <Author>Мельник Ірина Володимирівна</Author>
+      <UsageConditions>Авторизація через корпоративну пошту університету.</UsageConditions>
+      <Address>https://elearning.fit.knu.ua/course/view.php?id=142</Address>
+    </ElectronicCourse>
+  </DepartmentSection>
+
+  <DepartmentSection department="Кафедра інтелектуальних технологій" faculty="Факультет інформаційних технологій">
+    <ResearchDatabase id="RES-03" type="Наукова база даних" faculty="Факультет інформаційних технологій" department="Кафедра інтелектуальних технологій" access="Локальна мережа" language="EN/UA" license="MIT">
+      <Title>Репозиторій датасетів для машинного навчання</Title>
+      <Annotation>Набір розмічених текстових та графічних даних для проведення наукових досліджень аспірантами та студентами.</Annotation>
+      <Author>Бондаренко Тарас Миколайович</Author>
+      <UsageConditions>Використання виключно в навчальних та наукових цілях із посиланням на кафедру.</UsageConditions>
+      <Address>http://10.14.22.8/datasets/ml-repo</Address>
+    </ResearchDatabase>
+
+    <MethodicalManual id="RES-04" type="Методичний посібник" department="Кафедра інтелектуальних технологій" access="Відкритий доступ">
+      <Title>Алгоритми інтелектуального аналізу даних</Title>
+      <Annotation>Теоретичні відомості та лабораторні роботи з кластеризації, класифікації й нейронних мереж.</Annotation>
+      <Author>Савченко Наталія Сергіївна</Author>
+      <UsageConditions>Вільний доступ без реєстрації.</UsageConditions>
+      <Address>https://fit.knu.ua/resources/it/data-mining-2024.pdf</Address>
+    </MethodicalManual>
+
+    <SoftwareComplex id="RES-05" type="Програмний комплекс" faculty="Факультет інформаційних технологій" department="Кафедра інтелектуальних технологій" access="За запитом" os="Windows/Linux">
+      <Title>Система моделювання нейромережевих архітектур NeuroLab</Title>
+      <Annotation>Інструментальне середовище для побудови та тестування глибоких нейронних мереж у межах лабораторного практикуму.</Annotation>
+      <Author>Гриценко Дмитро Андрійович</Author>
+      <UsageConditions>Надається викладачем курсу для встановлення в комп'ютерних класах факультету.</UsageConditions>
+      <Address>https://git.fit.knu.ua/it-dept/neurolab</Address>
+    </SoftwareComplex>
+  </DepartmentSection>
+</DepartmentInformationResources>
