@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DepartmentInformationResources>
+  <Department faculty="Факультет комп'ютерних наук та кібернетики" department="Кафедра програмної інженерії">
+    <Resource id="1" type="Підручник" format="PDF" language="Українська" year="2025">
+      <Title>Об'єктно-орієнтоване програмування на мові C#</Title>
+      <Annotation>Фундаментальний курс із принципів ООП, патернів проєктування та розробки застосунків на платформі .NET.</Annotation>
+      <Author>Ковальчук О. В.</Author>
+      <UsageConditions>Відкритий доступ для студентів та викладачів</UsageConditions>
+      <Address>https://resources.knu.ua/se/oop-csharp-2025.pdf</Address>
+    </Resource>
+    <Resource id="2" type="Методичні вказівки" format="PDF" language="Українська" year="2026">
+      <Title>Методичні вказівки до лабораторних робіт з XML та XSLT</Title>
+      <Annotation>Практичний посібник із парсингу XML-документів методами DOM, SAX, LINQ to XML та XSLT-трансформації.</Annotation>
+      <Author>Шевченко І. М.</Author>
+      <UsageConditions>Для внутрішнього використання студентами кафедри</UsageConditions>
+      <Address>https://resources.knu.ua/se/xml-xslt-lab2.pdf</Address>
+    </Resource>
+    <Resource id="3" type="Методичні вказівки" format="PDF" language="Українська" year="2026">
+      <Title>Розробка кросплатформних застосунків на .NET MAUI</Title>
+      <Annotation>Покрокова інструкція зі створення десктопних та мобільних інтерфейсів на XAML і C#.</Annotation>
+      <Author>Ковальчук О. В.</Author>
+      <UsageConditions>Для студентів 2–4 курсів</UsageConditions>
+      <Address>https://resources.knu.ua/se/dotnet-maui-guide.pdf</Address>
+    </Resource>
+    <Resource id="4" type="Лабораторний практикум" format="ZIP" language="Українська" year="2025">
+      <Title>Патерни проєктування програмного забезпечення (GoF)</Title>
+      <Annotation>Збірник завдань і шаблонів коду для вивчення породжувальних, структурних та поведінкових патернів.</Annotation>
+      <Author>Мельник В. С.</Author>
+      <UsageConditions>Вільне поширення у навчальних цілях</UsageConditions>
+      <Address>https://resources.knu.ua/se/gof-patterns-pack.zip</Address>
+    </Resource>
+    <Resource id="5" type="Наукова стаття" format="PDF" language="Українська" year="2025">
+      <Title>Аналіз продуктивності парсерів DOM, SAX та LINQ to XML</Title>
+      <Annotation>Порівняльне дослідження витрат пам'яті та швидкості обробки великих XML-масивів у середовищі .NET.</Annotation>
+      <Author>Шевченко І. М.</Author>
+      <UsageConditions>Ліцензія Creative Commons CC BY 4.0</UsageConditions>
+      <Address>https://journal.knu.ua/articles/xml-parsers-benchmark.pdf</Address>
+    </Resource>
+  </Department>
+
+  <Department faculty="Факультет інформаційних технологій" department="Кафедра інформаційних систем">
+    <Resource id="6" type="Електронний курс" format="HTML" language="Українська" year="2024">
+      <Title>Проєктування реляційних баз даних та SQL-запити</Title>
+      <Annotation>Інтерактивний навчальний курс із нормалізації схем даних, транзакцій та оптимізації запитів.</Annotation>
+      <Author>Бондаренко Т. П.</Author>
+      <UsageConditions>Доступ після авторизації в корпоративній мережі</UsageConditions>
+      <Address>https://lms.knu.ua/courses/databases-sql</Address>
+    </Resource>
+    <Resource id="7" type="Електронний курс" format="HTML" language="Українська" year="2025">
+      <Title>Сучасні фреймворки фронтенд-розробки</Title>
+      <Annotation>Практичний курс із побудови компонентних вебзастосунків та управління станом інтерфейсу.</Annotation>
+      <Author>Лисенко М. О.</Author>
+      <UsageConditions>Відкритий доступ для слухачів курсу</UsageConditions>
+      <Address>https://lms.knu.ua/courses/frontend-2025</Address>
+    </Resource>
+    <Resource id="8" type="Тестова база" format="XML" language="Українська" year="2024">
+      <Title>Контрольні тести з курсу «Операційні системи»</Title>
+      <Annotation>Банк тестових завдань для перевірки знань із керування процесами, пам'яттю та файловими системами.</Annotation>
+      <Author>Савченко Н. Г.</Author>
+      <UsageConditions>Лише для викладачів кафедри</UsageConditions>
+      <Address>https://exam.knu.ua/banks/os-tests-2024.xml</Address>
+    </Resource>
+  </Department>
+
+  <Department faculty="Факультет комп'ютерних наук та кібернетики" department="Кафедра інтелектуальних систем">
+    <Resource id="9" type="Відеолекції" format="MP4" language="Українська" year="2024">
+      <Title>Алгоритми на графах та динамічне програмування</Title>
+      <Annotation>Цикл відеолекцій із розбором класичних алгоритмів пошуку найкоротших шляхів та оптимізації.</Annotation>
+      <Author>Дмитренко А. Р.</Author>
+      <UsageConditions>Відкритий освітній ресурс</UsageConditions>
+      <Address>https://media.knu.ua/lectures/graphs-dp</Address>
+    </Resource>
+    <Resource id="10" type="Підручник" format="PDF" language="Англійська" year="2025">
+      <Title>Машинне навчання та інтелектуальний аналіз даних</Title>
+      <Annotation>Навчальний посібник із методів класифікації, кластеризації та побудови нейронних мереж на Python.</Annotation>
+      <Author>Дмитренко А. Р.</Author>
+      <UsageConditions>Відкритий доступ для студентів та аспірантів</UsageConditions>
+      <Address>https://resources.knu.ua/ai/ml-data-analysis.pdf</Address>
+    </Resource>
+  </Department>
+</DepartmentInformationResources>
